@@ -1,5 +1,5 @@
 ## Welcome to my Github 👋🏻🤓
-### I'm so happy you're here!
+I'm so happy you're here!
 
 #### About Me:
 - Web Design & Development major, minoring in Computer Science at [UVU](https://www.uvu.edu/)

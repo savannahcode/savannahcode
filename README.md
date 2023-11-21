@@ -8,7 +8,7 @@ I'm so happy you're here!
 
 #### Current Projects:
 - [Svelte Framework Website](https://dwdd3770.vercel.app/)
-- [My Personal Wedding Website]([https://www.figma.com/file/l1zuKxJm9iuOP4csy2piHu/Preston-Sav-Wedding-Website?type=design&node-id=0%3A1&mode=design&t=gMZZQg0BNPWlHPno-1](https://weddingcode.co/preston-savannah/))
+- [My Personal Wedding Website](https://weddingcode.co/preston-savannah/)
 - [Weddingcode.co Website Creator Page](https://www.figma.com/file/AqO3zC0OngrydXADkeFxNN/weddingcode.co-Site-Design?type=design&node-id=0%3A1&mode=design&t=pE2gJqZPSUQFA7w7-1)
 
 #### What I'm Looking For:

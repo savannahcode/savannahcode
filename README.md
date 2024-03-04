@@ -20,7 +20,7 @@ I'm so happy you're here!
 
 #### Contact Me:
 - 📩 Email me at [sav@savcode.co](mailto:sav@savcode.co) (This is the best way to contact me)
-- 📲 Message me on LinkedIn [@Savannah Everett](https://www.linkedin.com/in/savannah-hilton/)
+- 📲 Message me on LinkedIn [@Savannah Everett]([https://www.linkedin.com/in/savannah-hilton/](https://www.linkedin.com/in/sav-everett/))
 - 💬 DM me on Instagram [@savcode.co](https://www.instagram.com/savcode.co/)
 - Check out my website at [savcode.co](savcode.co)
 

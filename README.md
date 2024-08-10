@@ -2,21 +2,16 @@
 I'm so happy you're here!
 
 #### About Me:
-- Web Design & Development major, minoring in Computer Science at [UVU](https://www.uvu.edu/)
-- Graduating with my UVU Bachelor's Degree in August 2024
-- JavaScript, Figma, lifting, & chocolate enthusiast
+- Graduated from [UVU](https://www.uvu.edu/) in August 2024 (Web Design & Development major, Computer Science minor)
+- Software Engineer at [Paramify](https://www.paramify.com/)
+- React, TypeScript, chocolate, & distance running enthusiast
 
 #### Current Projects:
 - [Mood Tracker for CHC](https://mood-mental-health.vercel.app/)
-- [Community Health Connect site fixes & revamp](https://utahchc.org)
-- [Weddingcode.co Website Creator Page](https://www.figma.com/file/AqO3zC0OngrydXADkeFxNN/weddingcode.co-Site-Design?type=design&node-id=0%3A1&mode=design&t=pE2gJqZPSUQFA7w7-1)
 
 #### Recent Projects:
+- [Utah 2002 Winter Olympics Venues Map for the Alf Engen Ski Museum](https://olympic-map2-0.vercel.app/)
 - [The Wellness Wizard - Type 2 Diabetes Predictor](https://github.com/chlohilt/HealthProject-HackUSU)
-
-#### What I'm Looking For:
-- Web Development Collaboration Opportunities
-- Potential Full Time Software Dev positions starting September 2024
 
 #### Contact Me:
 - 📩 Email me at [sav@savcode.co](mailto:sav@savcode.co) (This is the best way to contact me)

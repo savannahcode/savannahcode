@@ -7,7 +7,7 @@ I'm so happy you're here!
 - React, TypeScript, chocolate, & distance running enthusiast
 
 #### Current Projects:
-- [Mood Tracker for CHC](https://mood-mental-health.vercel.app/)
+- Fitness App: SavFit
 
 #### Recent Projects:
 - [Utah 2002 Winter Olympics Venues Map for the Alf Engen Ski Museum](https://olympic-map2-0.vercel.app/)

@@ -2,7 +2,7 @@
 I'm so happy you're here!
 
 #### About Me:
-- - OPEN TO WORK: Looking for my next role as a Software Engineer!
+- OPEN TO WORK: Looking for my next role as a Software Engineer!
 - Graduated from [UVU](https://www.uvu.edu/) in August 2024 (Web Design & Development major, Computer Science minor)
 - React, TypeScript, UX, chocolate, & lifting enthusiast
 

@@ -2,12 +2,16 @@
 I'm so happy you're here!
 
 #### About Me:
+- - OPEN TO WORK: Looking for my next role as a Software Engineer!
 - Graduated from [UVU](https://www.uvu.edu/) in August 2024 (Web Design & Development major, Computer Science minor)
-- Software Engineer at [Paramify](https://www.paramify.com/)
-- React, TypeScript, chocolate, & distance running enthusiast
+- React, TypeScript, UX, chocolate, & lifting enthusiast
+
+#### Previous Employment:
+- Software Engineer at Paramify
+- Software Engineer Intern at Northrop Grumman
 
 #### Current Projects:
-- Fitness App: SavFit
+- Fitness App
 
 #### Recent Projects:
 - [Utah 2002 Winter Olympics Venues Map for the Alf Engen Ski Museum](https://olympic-map2-0.vercel.app/)

@@ -2,12 +2,12 @@
 I'm so happy you're here!
 
 #### About Me:
-- Software Engineer at [Paiv](https://www.paiv.ai/)
+- Software Engineer at [Paramify]([https://www.paiv.ai/](https://www.paramify.com/))
 - Graduated from [UVU](https://www.uvu.edu/) in August 2024 (Web Design & Development major, Computer Science minor)
 - React, TypeScript, UX, chocolate, & lifting enthusiast
 
 #### Previous Employment:
-- Software Engineer at Paramify
+- Software Engineer at [Paiv](https://www.paiv.ai/)
 - Software Engineer Intern at Northrop Grumman
 
 #### Current Projects:
